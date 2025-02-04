@@ -21,7 +21,7 @@ LandSandBoat-prometheus
 ### Configuration
 The module can be configured by modifying the `settings/map.lua`.
 
-This is not required if the default address and port work for you (127.0.0.0:8888)
+This is not required if the default address and port work for you (127.0.0.0:9865)
 
 ```lua
 xi.settings.map =
